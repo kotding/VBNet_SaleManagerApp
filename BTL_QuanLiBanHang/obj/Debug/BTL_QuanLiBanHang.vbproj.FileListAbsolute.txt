@@ -1,0 +1,783 @@
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.AssemblyReference.cache
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.DangNhap.resources
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.Resources.resources
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.GenerateResource.cache
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.CoreCompileInputs.cache
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.config
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.application
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.TrustInfo.xml
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.application
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_Quan.069765C4.Up2Date
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HeThong.resources
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Guna.UI-unpacked.dll
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HangHoa.resources
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhaCungCap.resources
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.LoaiHang.resources
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhanSu.resources
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.KhachHang.resources
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDon.resources
+C:\Users\ngdai\source\repos\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BanHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.config
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.application
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.AssemblyReference.cache
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BanHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.DangNhap.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HangHoa.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HeThong.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDon.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.KhachHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.LoaiHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.Resources.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhaCungCap.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhanSu.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.GenerateResource.cache
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.CoreCompileInputs.cache
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.TrustInfo.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.application
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_Quan.069765C4.Up2Date
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.config
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.application
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.AssemblyReference.cache
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BanHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.DangNhap.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HangHoa.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HeThong.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDon.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.InHoaDon.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.KhachHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.LoaiHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.Resources.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhaCungCap.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhanSu.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.GenerateResource.cache
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.CoreCompileInputs.cache
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.TrustInfo.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.application
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_Quan.069765C4.Up2Date
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.pdb
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.config
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.manifest
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.application
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.pdb
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.AssemblyReference.cache
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BanHang.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.DangNhap.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HangHoa.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HeThong.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDon.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.InHoaDon.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.KhachHang.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.LoaiHang.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.Resources.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhaCungCap.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhanSu.resources
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.GenerateResource.cache
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.CoreCompileInputs.cache
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.TrustInfo.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe.manifest
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.application
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_Quan.069765C4.Up2Date
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.xml
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.pdb
+D:\bich\visual_Basic.Net\New folder\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDonNhap.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.config
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.manifest
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.application
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.pdb
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.AssemblyReference.cache
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BanHang.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.DangNhap.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HangHoa.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HeThong.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDon.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDonNhap.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.InHoaDon.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.KhachHang.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.LoaiHang.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.Resources.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhaCungCap.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhanSu.resources
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.GenerateResource.cache
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.CoreCompileInputs.cache
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.TrustInfo.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe.manifest
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.application
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_Quan.069765C4.Up2Date
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.xml
+D:\bich\visual_Basic.Net\BTL\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.config
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.application
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.AssemblyReference.cache
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BanHang.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.DangNhap.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HangHoa.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HeThong.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDon.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDonNhap.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.InHoaDon.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.KhachHang.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.LoaiHang.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.Resources.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhaCungCap.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhanSu.resources
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.GenerateResource.cache
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.CoreCompileInputs.cache
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.TrustInfo.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.application
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_Quan.069765C4.Up2Date
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.xml
+C:\Users\ngdai\Documents\Zalo Received Files\BTL_QuanLiBanHang\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.config
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.application
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.AssemblyReference.cache
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BanHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.DangNhap.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HangHoa.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HeThong.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDon.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDonNhap.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.InHoaDon.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.KhachHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.LoaiHang.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.Resources.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhaCungCap.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhanSu.resources
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.GenerateResource.cache
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.CoreCompileInputs.cache
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.TrustInfo.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.application
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_Quan.069765C4.Up2Date
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.xml
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\em trang\Downloads\BTL_QuanLiBanHang_End\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BaoCao.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.config
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.application
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.exe
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\BTL_QuanLiBanHang.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Guna.UI-unpacked.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Core.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Azure.Identity.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Buffers.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ClientModel.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Memory.Data.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Permissions.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Text.Json.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\System.ValueTuple.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.AssemblyReference.cache
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BanHang.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.BaoCao.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.DangNhap.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HangHoa.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HeThong.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDon.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.HoaDonNhap.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.InHoaDon.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.KhachHang.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.LoaiHang.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.Resources.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhaCungCap.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.NhanSu.resources
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.GenerateResource.cache
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.vbproj.CoreCompileInputs.cache
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.TrustInfo.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe.manifest
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.application
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_Quan.069765C4.Up2Date
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.xml
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.pdb
