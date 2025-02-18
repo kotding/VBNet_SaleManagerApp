@@ -1,4 +1,6 @@
 ﻿Imports System.Windows.Forms
+Imports Guna.UI.WinForms
+Imports Guna.UI2.WinForms
 
 Public Class HeThong
 
@@ -78,7 +80,7 @@ Public Class HeThong
 
     Private m_ChildFormNumber As Integer
 
-    Private Sub QuảnLíHàngHóaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles QuảnLíHàngHóaToolStripMenuItem.Click
+    Private Sub QuảnLíHàngHóaToolStripMenuItem_Click(sender As Object, e As EventArgs)
         ShowFormInside(New HangHoa())
     End Sub
 
@@ -106,35 +108,35 @@ Public Class HeThong
         ShowFormInside(New BanHang())
     End Sub
 
-    Private Sub QuảnLíNhàCungCấpToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles QuảnLíNhàCungCấpToolStripMenuItem.Click
+    Private Sub QuảnLíNhàCungCấpToolStripMenuItem_Click(sender As Object, e As EventArgs)
         ShowFormInside(New NhaCungCap())
     End Sub
 
-    Private Sub PhânLoạiSảnPhẩmToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PhânLoạiSảnPhẩmToolStripMenuItem.Click
+    Private Sub PhânLoạiSảnPhẩmToolStripMenuItem_Click(sender As Object, e As EventArgs)
         ShowFormInside(New LoaiHang())
     End Sub
 
-    Private Sub QuảnLíNhânSựToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles QuảnLíNhânSựToolStripMenuItem.Click
+    Private Sub QuảnLíNhânSựToolStripMenuItem_Click(sender As Object, e As EventArgs)
         ShowFormInside(New NhanSu())
     End Sub
 
-    Private Sub QuảnLíKháchHàngToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles QuảnLíKháchHàngToolStripMenuItem.Click
+    Private Sub QuảnLíKháchHàngToolStripMenuItem_Click(sender As Object, e As EventArgs)
         ShowFormInside(New KhachHang())
     End Sub
 
-    Private Sub HóaĐơnXuấtToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles HóaĐơnXuấtToolStripMenuItem.Click
+    Private Sub HóaĐơnXuấtToolStripMenuItem_Click(sender As Object, e As EventArgs)
         ShowFormInside(New HoaDon())
     End Sub
 
-    Private Sub TrangBánHàngToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles TrangBánHàngToolStripMenuItem.Click
+    Private Sub TrangBánHàngToolStripMenuItem_Click(sender As Object, e As EventArgs)
         ShowFormInside(New BanHang())
     End Sub
 
-    Private Sub ToolStrip_ItemClicked(sender As Object, e As ToolStripItemClickedEventArgs) Handles ToolStrip.ItemClicked
+    Private Sub ToolStrip_ItemClicked(sender As Object, e As ToolStripItemClickedEventArgs)
 
     End Sub
 
-    Private Sub MenuStrip_ItemClicked(sender As Object, e As ToolStripItemClickedEventArgs) Handles MenuStrip.ItemClicked
+    Private Sub MenuStrip_ItemClicked(sender As Object, e As ToolStripItemClickedEventArgs)
 
     End Sub
 
@@ -142,7 +144,62 @@ Public Class HeThong
 
     End Sub
 
-    Private Sub XemBáoCáoToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles XemBáoCáoToolStripMenuItem.Click
+    Private Sub XemBáoCáoToolStripMenuItem_Click(sender As Object, e As EventArgs)
         ShowFormInside(New BaoCao())
+    End Sub
+
+    Private Sub Guna2Button1_Click(sender As Object, e As EventArgs) Handles Guna2Button1.Click
+        Check(sender)
+        ShowFormInside(New BanHang())
+    End Sub
+
+    Private Sub Guna2Button2_Click(sender As Object, e As EventArgs) Handles Guna2Button2.Click
+        Check(sender)
+        ShowFormInside(New HangHoa())
+    End Sub
+
+    Private Sub Guna2Button3_Click(sender As Object, e As EventArgs) Handles Guna2Button3.Click
+        Check(sender)
+        ShowFormInside(New NhanSu())
+    End Sub
+
+    Private Sub Guna2Button4_Click(sender As Object, e As EventArgs) Handles Guna2Button4.Click
+        Check(sender)
+        ShowFormInside(New HoaDon())
+    End Sub
+
+    Private Sub Guna2Button5_Click(sender As Object, e As EventArgs) Handles Guna2Button5.Click
+        Check(sender)
+        ShowFormInside(New KhachHang())
+    End Sub
+
+    Private Sub Guna2Button6_Click(sender As Object, e As EventArgs) Handles Guna2Button6.Click
+        Check(sender)
+        ShowFormInside(New BaoCao())
+    End Sub
+
+    Private Sub Guna2Button7_Click(sender As Object, e As EventArgs) Handles Guna2Button7.Click
+        Check(sender)
+        ShowFormInside(New NhaCungCap())
+    End Sub
+
+    Private Sub Guna2Button8_Click(sender As Object, e As EventArgs) Handles Guna2Button8.Click
+        Dim frm = New DangNhap()
+        frm.Show()
+        Me.Close()
+    End Sub
+    Private Sub Check(control As Control)
+        For Each c As Control In Guna2GradientPanel1.Controls
+            Dim btn = CType(c, Guna2Button)
+            btn.Checked = (btn Is control)
+        Next
+    End Sub
+    Private Sub Guna2GradientPanel1_Paint(sender As Object, e As PaintEventArgs) Handles Guna2GradientPanel1.Paint
+
+    End Sub
+
+    Private Sub Guna2Button9_Click(sender As Object, e As EventArgs) Handles Guna2Button9.Click
+        Check(sender)
+        ShowFormInside(New LoaiHang())
     End Sub
 End Class

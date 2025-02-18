@@ -62,12 +62,57 @@ BTL_QuanLiBanHang
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Bill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Categorize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Customer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:BTL_QuanLiBanHang.My.Resources.Resources.download">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Home1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.kisspng_e_commerce_online_shopping_online_and_offline_prod_magazin_online_amp_e_commerce_creare_administ_5c3e8c28bc6598_6663819915476029847717">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Open_Pane">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Package">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:BTL_QuanLiBanHang.My.Resources.Resources.quan_ly_cua_hang">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Statistics_Report">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -78,6 +123,16 @@ BTL_QuanLiBanHang
 </summary>
 </member>
 <member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Untitled1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.User_Groups">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTL_QuanLiBanHang.My.Resources.Resources.Warehouse">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

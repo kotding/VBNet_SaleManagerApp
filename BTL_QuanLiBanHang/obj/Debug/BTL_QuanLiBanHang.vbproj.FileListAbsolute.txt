@@ -781,3 +781,4 @@ C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHa
 C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.exe
 C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.xml
 C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\obj\Debug\BTL_QuanLiBanHang.pdb
+C:\Users\ngdai\Downloads\BTL_QuanLiBanHang (1)\BTL_QuanLiBanHang\BTL_QuanLiBanHang\bin\Debug\Guna.UI2.dll

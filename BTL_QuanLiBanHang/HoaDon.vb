@@ -10,6 +10,7 @@ Public Class HoaDon
         hoaDonChiTietTable = db.ExecuteQuery("SELECT * FROM HoaDonChiTiet")
 
         DataGridView2.DataSource = hoaDonTable
+        DataGridView2.Columns("NgayBan").AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill
     End Sub
     Dim table As DataTable
     Dim rowSelected As Int32

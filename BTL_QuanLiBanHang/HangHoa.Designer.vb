@@ -50,15 +50,17 @@ Partial Class HangHoa
         '
         Me.DataGridView1.AllowUserToAddRows = False
         Me.DataGridView1.AllowUserToDeleteRows = False
+        Me.DataGridView1.BackgroundColor = System.Drawing.Color.White
         Me.DataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(-5, 183)
+        Me.DataGridView1.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.DataGridView1.Location = New System.Drawing.Point(0, 188)
         Me.DataGridView1.MultiSelect = False
         Me.DataGridView1.Name = "DataGridView1"
         Me.DataGridView1.ReadOnly = True
         Me.DataGridView1.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.[Single]
         Me.DataGridView1.RowHeadersWidth = 51
-        Me.DataGridView1.Size = New System.Drawing.Size(971, 263)
+        Me.DataGridView1.Size = New System.Drawing.Size(968, 260)
         Me.DataGridView1.TabIndex = 0
         '
         'Label1
@@ -88,13 +90,13 @@ Partial Class HangHoa
         Me.tbMaHang.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.tbMaHang.Location = New System.Drawing.Point(113, 58)
         Me.tbMaHang.Name = "tbMaHang"
-        Me.tbMaHang.Size = New System.Drawing.Size(95, 26)
+        Me.tbMaHang.Size = New System.Drawing.Size(133, 26)
         Me.tbMaHang.TabIndex = 3
         '
         'tbTenHang
         '
         Me.tbTenHang.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbTenHang.Location = New System.Drawing.Point(310, 58)
+        Me.tbTenHang.Location = New System.Drawing.Point(343, 59)
         Me.tbTenHang.Name = "tbTenHang"
         Me.tbTenHang.Size = New System.Drawing.Size(174, 26)
         Me.tbTenHang.TabIndex = 5
@@ -104,7 +106,7 @@ Partial Class HangHoa
         Me.Label3.AutoSize = True
         Me.Label3.BackColor = System.Drawing.Color.Transparent
         Me.Label3.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(219, 64)
+        Me.Label3.Location = New System.Drawing.Point(252, 65)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(64, 19)
         Me.Label3.TabIndex = 4
@@ -132,7 +134,7 @@ Partial Class HangHoa
         'tbDonGia
         '
         Me.tbDonGia.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbDonGia.Location = New System.Drawing.Point(563, 99)
+        Me.tbDonGia.Location = New System.Drawing.Point(612, 92)
         Me.tbDonGia.Name = "tbDonGia"
         Me.tbDonGia.Size = New System.Drawing.Size(142, 26)
         Me.tbDonGia.TabIndex = 9
@@ -142,7 +144,7 @@ Partial Class HangHoa
         Me.Label5.AutoSize = True
         Me.Label5.BackColor = System.Drawing.Color.Transparent
         Me.Label5.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(501, 105)
+        Me.Label5.Location = New System.Drawing.Point(550, 98)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(56, 19)
         Me.Label5.TabIndex = 8
@@ -151,7 +153,7 @@ Partial Class HangHoa
         'tbDVT
         '
         Me.tbDVT.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbDVT.Location = New System.Drawing.Point(563, 141)
+        Me.tbDVT.Location = New System.Drawing.Point(612, 134)
         Me.tbDVT.Name = "tbDVT"
         Me.tbDVT.Size = New System.Drawing.Size(144, 26)
         Me.tbDVT.TabIndex = 11
@@ -161,7 +163,7 @@ Partial Class HangHoa
         Me.Label6.AutoSize = True
         Me.Label6.BackColor = System.Drawing.Color.Transparent
         Me.Label6.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(503, 146)
+        Me.Label6.Location = New System.Drawing.Point(552, 139)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(49, 19)
         Me.Label6.TabIndex = 10
@@ -170,7 +172,7 @@ Partial Class HangHoa
         'tbSoLuong
         '
         Me.tbSoLuong.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbSoLuong.Location = New System.Drawing.Point(562, 59)
+        Me.tbSoLuong.Location = New System.Drawing.Point(611, 52)
         Me.tbSoLuong.Name = "tbSoLuong"
         Me.tbSoLuong.Size = New System.Drawing.Size(144, 26)
         Me.tbSoLuong.TabIndex = 13
@@ -180,7 +182,7 @@ Partial Class HangHoa
         Me.Label7.AutoSize = True
         Me.Label7.BackColor = System.Drawing.Color.Transparent
         Me.Label7.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(494, 62)
+        Me.Label7.Location = New System.Drawing.Point(543, 55)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(64, 19)
         Me.Label7.TabIndex = 12
@@ -189,7 +191,7 @@ Partial Class HangHoa
         'btnThem
         '
         Me.btnThem.Font = New System.Drawing.Font("Times New Roman", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnThem.Location = New System.Drawing.Point(730, 90)
+        Me.btnThem.Location = New System.Drawing.Point(779, 83)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(100, 35)
         Me.btnThem.TabIndex = 14
@@ -199,7 +201,7 @@ Partial Class HangHoa
         'btnLuu
         '
         Me.btnLuu.Font = New System.Drawing.Font("Times New Roman", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnLuu.Location = New System.Drawing.Point(730, 48)
+        Me.btnLuu.Location = New System.Drawing.Point(779, 41)
         Me.btnLuu.Name = "btnLuu"
         Me.btnLuu.Size = New System.Drawing.Size(98, 35)
         Me.btnLuu.TabIndex = 15
@@ -209,7 +211,7 @@ Partial Class HangHoa
         'btnXoa
         '
         Me.btnXoa.Font = New System.Drawing.Font("Times New Roman", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnXoa.Location = New System.Drawing.Point(730, 133)
+        Me.btnXoa.Location = New System.Drawing.Point(779, 126)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(98, 35)
         Me.btnXoa.TabIndex = 16
@@ -220,7 +222,7 @@ Partial Class HangHoa
         '
         Me.cbbNhaCungCap.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cbbNhaCungCap.FormattingEnabled = True
-        Me.cbbNhaCungCap.Location = New System.Drawing.Point(310, 95)
+        Me.cbbNhaCungCap.Location = New System.Drawing.Point(343, 96)
         Me.cbbNhaCungCap.Name = "cbbNhaCungCap"
         Me.cbbNhaCungCap.Size = New System.Drawing.Size(174, 28)
         Me.cbbNhaCungCap.TabIndex = 17
@@ -230,7 +232,7 @@ Partial Class HangHoa
         Me.Label8.AutoSize = True
         Me.Label8.BackColor = System.Drawing.Color.Transparent
         Me.Label8.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(211, 99)
+        Me.Label8.Location = New System.Drawing.Point(244, 100)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(93, 19)
         Me.Label8.TabIndex = 18
@@ -253,13 +255,14 @@ Partial Class HangHoa
         Me.cbbLoaiHang.FormattingEnabled = True
         Me.cbbLoaiHang.Location = New System.Drawing.Point(113, 95)
         Me.cbbLoaiHang.Name = "cbbLoaiHang"
-        Me.cbbLoaiHang.Size = New System.Drawing.Size(95, 28)
+        Me.cbbLoaiHang.Size = New System.Drawing.Size(133, 28)
         Me.cbbLoaiHang.TabIndex = 19
         '
         'HangHoa
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.White
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(968, 448)
         Me.Controls.Add(Me.Label9)
