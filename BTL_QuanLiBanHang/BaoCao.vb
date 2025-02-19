@@ -14,6 +14,8 @@ Public Class BaoCao
         Chart1.Titles.Add(New Title("Báo cáo"))
         Chart1.Series(0).AxisLabel = "Biểu đồ hàng hóa"
         Chart1.Series(0).ChartType = SeriesChartType.Column
+        Chart1.ChartAreas(0).AxisX.Interval = 1
+        Chart1.ChartAreas(0).AxisX.LabelStyle.Angle = -45
         Chart1.Series(0).Points.DataBind(tb.DefaultView, xCol, yCol, "")
     End Sub
 

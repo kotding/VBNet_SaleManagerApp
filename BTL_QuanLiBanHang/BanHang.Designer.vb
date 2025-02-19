@@ -253,10 +253,10 @@ Partial Class BanHang
         '
         Me.Label10.AutoSize = True
         Me.Label10.BackColor = System.Drawing.Color.Transparent
-        Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(641, 339)
+        Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label10.Location = New System.Drawing.Point(641, 346)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(82, 29)
+        Me.Label10.Size = New System.Drawing.Size(65, 24)
         Me.Label10.TabIndex = 18
         Me.Label10.Text = "Tổng: "
         '
@@ -264,10 +264,10 @@ Partial Class BanHang
         '
         Me.tbTongTien.AutoSize = True
         Me.tbTongTien.BackColor = System.Drawing.Color.Transparent
-        Me.tbTongTien.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbTongTien.Location = New System.Drawing.Point(711, 339)
+        Me.tbTongTien.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tbTongTien.Location = New System.Drawing.Point(700, 346)
         Me.tbTongTien.Name = "tbTongTien"
-        Me.tbTongTien.Size = New System.Drawing.Size(75, 29)
+        Me.tbTongTien.Size = New System.Drawing.Size(61, 24)
         Me.tbTongTien.TabIndex = 19
         Me.tbTongTien.Text = "0 vnd"
         '

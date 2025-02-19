@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BTL_QuanLiBanHang.exe" size="3018720">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BTL_QuanLiBanHang.exe" size="3019232">
       <assemblyIdentity name="BTL_QuanLiBanHang" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/BhdT9SKNZKQD1kDW4YBCaLrfBtgiTmjUjxhDDB2cKE=</dsig:DigestValue>
+        <dsig:DigestValue>Xo5AvuS7xhGhI+s4bbVVDOdwT9nyoxf9GlMCvpa6mfo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

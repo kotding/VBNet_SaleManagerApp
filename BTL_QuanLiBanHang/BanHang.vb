@@ -114,7 +114,7 @@
         If MessageBox.Show("Xác nhận thanh toán ?") = DialogResult.OK Then
             Dim db As New DataManager
             Dim maKH As String
-            If cbCoTaiKhoan.Checked Then
+            If cbCoTaiKhoan.Checked = False Then
                 maKH = cbbKhachHang.SelectedValue
             Else
                 maKH = "003"

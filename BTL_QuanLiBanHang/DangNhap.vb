@@ -18,6 +18,7 @@ Public Class DangNhap
             Dim frmHeThong As New HeThong
             frmHeThong.Show()
             Me.Close()
+
         Else
             MessageBox.Show("Đăng nhập thất bại")
         End If
