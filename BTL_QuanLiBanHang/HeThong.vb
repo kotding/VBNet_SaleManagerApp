@@ -159,6 +159,10 @@ Public Class HeThong
     End Sub
 
     Private Sub Guna2Button3_Click(sender As Object, e As EventArgs) Handles Guna2Button3.Click
+        If QuanLiTaiKhoan.NhanVien.MaCV <> "003" Then
+            MessageBox.Show("Bạn không được cấp quyền truy cập!", "", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return
+        End If
         Check(sender)
         ShowFormInside(New NhanSu())
     End Sub

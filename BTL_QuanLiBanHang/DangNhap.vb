@@ -15,6 +15,7 @@ Public Class DangNhap
             QuanLiTaiKhoan.NhanVien.TenNV = table.Rows(0)("TenNV")
             QuanLiTaiKhoan.NhanVien.DiaChi = table.Rows(0)("DiaChi")
             QuanLiTaiKhoan.NhanVien.SDT = table.Rows(0)("SDT")
+            QuanLiTaiKhoan.NhanVien.MaCV = table.Rows(0)("MaCV")
             Dim frmHeThong As New HeThong
             frmHeThong.Show()
             Me.Close()
